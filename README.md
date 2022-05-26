@@ -13,6 +13,13 @@ skills for "[Scientific Programming](https://en.wikipedia.org/wiki/Scientific_pr
 
 ## Introduction
 
+Notebooks are available in this repository:
+
+| Notebook | Colab Link | View on GitHub |
+| :---- | :---- | ----: |
+| Intro Python | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/reu-python-eda/blob/main/notebooks/00-intro-python.ipynb) | [`00-intro-python.ipynb`](https://github.com/iuprohealth/reu-python-eda/blob/main/notebooks/00-intro-python.ipynb) |
+| Scientific Programming | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/reu-python-eda/blob/main/notebooks/01-scientific-programming.ipynb) | [`01-scientific-programming.ipynb`](https://github.com/iuprohealth/reu-python-eda/blob/main/notebooks/01-scientific-programming.ipynb) |
+
 We'll work with Python and Jupyter as a [literate programming](https://en.wikipedia.org/wiki/Literate_programming)
 environment.
 
