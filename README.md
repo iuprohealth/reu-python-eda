@@ -19,6 +19,8 @@ Notebooks are available in this repository:
 | :---- | :---- | ----: |
 | Intro Python | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/reu-python-eda/blob/main/notebooks/00-intro-python.ipynb) | [`00-intro-python.ipynb`](https://github.com/iuprohealth/reu-python-eda/blob/main/notebooks/00-intro-python.ipynb) |
 | Scientific Programming | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/reu-python-eda/blob/main/notebooks/01-scientific-programming.ipynb) | [`01-scientific-programming.ipynb`](https://github.com/iuprohealth/reu-python-eda/blob/main/notebooks/01-scientific-programming.ipynb) |
+| Data Mining | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/reu-python-eda/blob/main/notebooks/02-decision-tree-data-mining.ipynb) | [`01-scientific-programming.ipynb`](https://github.com/iuprohealth/reu-python-eda/blob/main/notebooks/02-decision-tree-data-mining.ipynb) |
+
 
 We'll work with Python and Jupyter as a [literate programming](https://en.wikipedia.org/wiki/Literate_programming)
 environment.
@@ -63,3 +65,8 @@ Not all of these are covered here, but these are some of the common libraries fo
 - In Jupyter, programs are broken into "*cells*." Cells may be executed in any order,
   and the order of execution can change the result. **As a best practice**: if you work
   in a notebook, try to keep the cells in a logical order.
+
+## Data
+
+I pulled a copy of the Titanic dataset (`data/titanic.csv`) from
+[Chris Piech's CS109 course](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html).
